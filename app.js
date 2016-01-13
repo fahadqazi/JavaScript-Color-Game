@@ -1,4 +1,4 @@
-//comment
+
 var numSquares = 6;
 var colors = generateRandomColors(numSquares);
 
